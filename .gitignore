@@ -1,0 +1,7 @@
+target/
+.DS_Store
+.classpath
+.project
+.settings/
+WebContent/WEB-INF/classes/*
+WebContent/WEB-INF/lib/*
